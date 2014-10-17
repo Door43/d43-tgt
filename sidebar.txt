@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgt:home|Door43 (tgt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgt|d43-tgt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgt/archive/master.zip|d43-tgt.zip]]
+
+**Recent Changes**
+{{changes>ns = tgt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgt|Ethnologue data]]
+
